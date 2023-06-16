@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.list {
+  flex: 1;
+  padding: 10px;
+  background-color: #9FE2BF;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  list-style-type: none;
+}
+
+
